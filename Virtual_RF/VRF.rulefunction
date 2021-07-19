@@ -1,0 +1,16 @@
+/**
+ * @description 
+ */
+virtual void rulefunction Virtual_RF.VRF {
+	attribute {
+		validity = ACTION;
+	}
+	scope {
+		
+		Concepts.Concept1 concept1;
+		Concepts.Concept2 concept2;
+	}
+	body {
+		
+	}
+}
